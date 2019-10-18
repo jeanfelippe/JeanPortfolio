@@ -254,8 +254,8 @@ body {
 }
 
 .foto-trabalhos {
-	width: 50%;
-	
+	width: 70%;
+	border-radius: 03%;
 	margin-bottom: 10px;
 	margin-top: 10px;
 }
